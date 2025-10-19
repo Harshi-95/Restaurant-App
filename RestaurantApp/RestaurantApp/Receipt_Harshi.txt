@@ -1,0 +1,14 @@
+------------ RECEIPT ------------
+Customer Name: Harshi
+Table Number: 8
+
+Spring Roll - ₹190.0
+Burger - ₹150.0
+Pizza - ₹220.0
+Thali - ₹220.0
+
+Total: ₹780.0
+Discount (10%): -₹78.0
+Amount to Pay: ₹702.0
+Payment Mode: Card
+Thank you for dining with us!
